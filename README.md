@@ -1,0 +1,2 @@
+# LearningFullStackJava
+Learning purposes 
